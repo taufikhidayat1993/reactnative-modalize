@@ -1,0 +1,158 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-modalize@^1.2.3",
+        "scope": null,
+        "escapedName": "react-native-modalize",
+        "name": "react-native-modalize",
+        "rawSpec": "^1.2.3",
+        "spec": ">=1.2.3 <2.0.0",
+        "type": "range"
+      },
+      "D:\\proyekreact\\panggilTukangv2\\panggiltukang-customer-reactnative"
+    ]
+  ],
+  "_from": "react-native-modalize@^1.2.3",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-modalize@1.3.6",
+  "_location": "/react-native-modalize",
+  "_nodeVersion": "10.16.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-modalize_1.3.6_1577528862039_0.4486287786948764"
+  },
+  "_npmUser": {
+    "name": "jeremy.barbet",
+    "email": "jeremgraph@gmail.com"
+  },
+  "_npmVersion": "6.12.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-modalize@^1.2.3",
+    "scope": null,
+    "escapedName": "react-native-modalize",
+    "name": "react-native-modalize",
+    "rawSpec": "^1.2.3",
+    "spec": ">=1.2.3 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-modalize/-/react-native-modalize-1.3.6.tgz",
+  "_shasum": "1a8651f673dbaccb9ebef908688bbd72b7790470",
+  "_shrinkwrap": null,
+  "_spec": "react-native-modalize@^1.2.3",
+  "_where": "D:\\proyekreact\\panggilTukangv2\\panggiltukang-customer-reactnative",
+  "author": {
+    "name": "Jérémy Barbet"
+  },
+  "bugs": {
+    "url": "https://github.com/jeremybarbet/react-native-modalize/issues"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "dependencies": {},
+  "description": "A modal that loves scrollable content.",
+  "devDependencies": {
+    "@commitlint/cli": "8.2.0",
+    "@commitlint/config-conventional": "8.2.0",
+    "@types/react": "16.9.16",
+    "@types/react-native": "0.60.25",
+    "concurrently": "5.0.2",
+    "cpx": "1.5.0",
+    "husky": "3.1.0",
+    "lint-staged": "9.5.0",
+    "prettier": "1.19.1",
+    "react": "16.12.0",
+    "react-native": "0.61.5",
+    "react-native-gesture-handler": "1.5.2",
+    "tslint": "5.20.1",
+    "tslint-config-airbnb": "5.11.2",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.7.3"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-omYD+bPpugO7XPZ4pvPIaltw8d4Es0ZcRfu8VVslYAJT74t5IxSd6NrtL3nw/i+TKZo+CTdK4d0hbgBiyt+mMw==",
+    "shasum": "1a8651f673dbaccb9ebef908688bbd72b7790470",
+    "tarball": "https://registry.npmjs.org/react-native-modalize/-/react-native-modalize-1.3.6.tgz",
+    "fileCount": 14,
+    "unpackedSize": 49785,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeBy4eCRA9TVsSAnZWagAA7TMP/jeB5RfcJQV29JxR1Dvq\nokMYe+gWaSpZtgOgGJ232dFPbRbsa8/VF6HWo83+9gpnWpFowL656olLvKBf\nEnBVsBDElJXkBcl9GjkJYCeO7DnYKAR09M0iWuPSjZzqKcJjIxJve371ZEqM\nU15GRLjseQFSrLQuoEZprF3kz/t/BSOMZunrjQXI9r+rBwdCvAh1SeZsDQWw\n21XAK8LgWEc3XEDJwZjEghrou3teTZowewFdXHiRK7/LkkGf9p5A4W4FAhAG\nrI6uhd+hNfijZu1QorkDVtBeWO3hb8pOgoF7s09EyOefVZIluNGbHIlNpzNZ\nUlaB8rMF2pEHHT6FPG3Zr6Qlrp0Qd03T1sMKM1Jmj5cQ6wnAIUpAIexN4MER\nrYl/sDHyKgMb+pby3cpqMOAFg4epKyaZEZprfjrjh7/5+GLT/YITs7EPmAFZ\nLtPxKVECNpmigr2tRtUUwbmHh7Mvcv8XZF7uGtjitzIic9J86XStbSG9v3Dt\n43zqxuVaHMDMkLGY1jUP2Dp6ujUhmyS8qJfrs+rLYgytcwoSkEucjh2fZazi\n5rSzlM6oKj0i+PhtetmmodWFdPlD3seDHwLOjnr1nzT4QpESuz4RChlbWM2a\nwjH2pXrR0XixgIewC+3oiOen9G2GNrIOas+B6lLSmGhJAyT6f/H3loFAAV4Q\ns5aL\r\n=L3EY\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "01eb6909c7b7018323957481bf12b8f279e19c72",
+  "homepage": "https://github.com/jeremybarbet/react-native-modalize",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "modal",
+    "android",
+    "ios",
+    "scrollview",
+    "flatlist",
+    "sectionlist",
+    "scroll",
+    "swipe",
+    "snap"
+  ],
+  "license": "MIT",
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx,json,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.{ts,tsx}": [
+      "tslint --fix"
+    ]
+  },
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "jeremy.barbet",
+      "email": "jeremgraph@gmail.com"
+    }
+  ],
+  "name": "react-native-modalize",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "> 15.0.0",
+    "react-native": "> 0.50.0",
+    "react-native-gesture-handler": "> 1.0.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 100
+  },
+  "readme": "# Modalize\n\n[![npm version](https://badge.fury.io/js/react-native-modalize.svg)](https://badge.fury.io/js/react-native-modalize)\n\nA modal that loves scrollable content.\n\nThis component has been built with `react-native-gesture-handler` to address the common issue of **scrolling**, **swipping** and handling the **keyboard** behaviors, you can face with react-native's modal. This component comes with a ScrollView, the default content renderer, a FlatList and a SectionList. They are all three built-in and make your life easier, just pass your content and Modalize will handle the rest for you.\n\n<p align=\"left\">\n  <img src=\"https://user-images.githubusercontent.com/937328/59955680-22f6d200-947b-11e9-8744-991a728596df.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955681-22f6d200-947b-11e9-9288-9142e98ffae8.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955682-22f6d200-947b-11e9-8ed5-6a29042e72f1.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955683-22f6d200-947b-11e9-89e8-3608eea34e8d.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955684-22f6d200-947b-11e9-97d2-0687a29921db.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955685-238f6880-947b-11e9-81f9-6345fba118f5.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955686-238f6880-947b-11e9-896a-bcdb34e827b7.gif\" height=\"450\" />\n  <img src=\"https://user-images.githubusercontent.com/937328/59955687-238f6880-947b-11e9-9345-55ea2bc8e458.gif\" height=\"450\" />\n</p>\n\n## Installation\n\n```bash\nyarn add react-native-modalize\n```\n\nIf you are not using expo, you will have to install `react-native-gesture-handler`\n\n```bash\nyarn add react-native-gesture-handler\n```\n\nCheck out [`react-native-gesture-handler`'s documentation](https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html) to set it up.\n\n## Usage\n\nHere is the quick how-to example:\n\n```jsx\nimport React, { useRef } from 'react';\nimport { View, Text, TouchableOpacity } from 'react-native';\nimport { Modalize } from 'react-native-modalize';\n\nexport const MyApp = () => {\n  const modalRef = useRef(null);\n\n  const onOpen = () => {\n    const modal = modalRef.current;\n\n    if (modal) {\n      modal.open();\n    }\n  };\n\n  return (\n    <>\n      <TouchableOpacity onPress={onOpen}>\n        <Text>Open the modal</Text>\n      </TouchableOpacity>\n\n      <Modalize ref={modalRef}>...your content</Modalize>\n    </>\n  );\n};\n```\n\n## Documentation\n\nThe full [documentation is available here](https://jeremybarbet.github.io/react-native-modalize). There is multiple examples runing through differents navigators, with more informations [here](https://jeremybarbet.github.io/react-native-modalize/#/EXAMPLES.md).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremybarbet/react-native-modalize.git"
+  },
+  "scripts": {
+    "build": "rm -rf ./lib/* && yarn lint && tsc",
+    "lint": "tslint 'src/**/*.ts?(x)' && prettier --list-different \"**/*.{json,md,js,jsx,ts,tsx}\"",
+    "postversion": "sh ./post-version.sh",
+    "prepublish": "yarn build",
+    "prettier": "prettier --write \"**/*.{json,md,js,jsx,ts,tsx}\"",
+    "watch:expo": "concurrently \"yarn watch:modalize\" \"yarn cpx 'src/**/*' 'examples/expo/node_modules/react-native-modalize' --watch\"",
+    "watch:modalize": "yarn tsc --watch",
+    "watch:react-native-navigation": "concurrently \"yarn watch:modalize\" \"yarn cpx 'src/**/*' 'examples/react-native-navigation/node_modules/react-native-modalize' --watch\"",
+    "watch:react-navigation": "concurrently \"yarn watch:modalize\" \"yarn cpx 'src/**/*' 'examples/react-navigation/node_modules/react-native-modalize/lib' --watch\""
+  },
+  "types": "./lib/index.d.ts",
+  "version": "1.3.6"
+}
